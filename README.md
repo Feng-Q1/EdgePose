@@ -6,3 +6,5 @@ the bidirectional feature fusion network. Our method constructs an end-to-end ne
 sharing weights between the edge detection encoder and the encoder of the RGB branch in the feature 3
 fusion network, effectively utilizing edge information and improving the accuracy and robustness of 4
 6D pose estimation.
+
+The code will be ready soon.
